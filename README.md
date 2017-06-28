@@ -18,3 +18,8 @@ python3 -c "import serial; print(serial.__file__)"
 ```
 
 If this command show you the file where the serial module is located, it works correctly.
+
+Run read-data-from-pi.py with
+```
+python3 read-data-from-microbit.py
+```
